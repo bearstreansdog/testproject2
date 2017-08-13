@@ -1,0 +1,9 @@
+After associating sourcetree with the github account, it picked up the project automatically.
+
+	https://github.com/bearstreansdog/mytestproject
+
+Right click on project -> Clone
+	https://github.com/bearstreansdog/mytestproject
+	c:\dev\projects\git\mytestproject
+	
+I committed and then added this comment and will commit it also.	
